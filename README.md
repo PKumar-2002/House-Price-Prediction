@@ -29,7 +29,7 @@ pip install numpy pandas matplotlib scikit-learn
 ```
 
 ## Dataset
-The dataset used in this project contains various features like the size of the house, the number of bedrooms, bathrooms, etc., and the target variable is the price of the house. *(Note: The dataset is not provided in the repository due to size limitations)*.
+The dataset used in this project contains various features like the size of the house, the number of bedrooms, bathrooms, etc., and the target variable is the price of the house.
 
 ## Usage
 1. Clone the repository:
